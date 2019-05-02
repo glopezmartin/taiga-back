@@ -16,3 +16,5 @@ static
 .\#*
 .project
 .env
+venv/
+settings/local.py
